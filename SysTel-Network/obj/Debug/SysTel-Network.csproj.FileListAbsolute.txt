@@ -1,0 +1,39 @@
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\bin\Debug\SysTel-Network.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel-Network.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\bin\Debug\SysTel-Network.exe
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\bin\Debug\SysTel-Network.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel-Network.exe
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel-Network.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_login.resources
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_principal.resources
+c:\users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_estadistica.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_splash.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_empleados.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_capture_pintures.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel-Network.csprojResolveAssemblyReference.cache
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_clientes.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_proveedores.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_sucursales.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_categorias.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_marcas.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_cargos.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_productos.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_ventas.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_compras.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_servicios.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_lista_productos.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_lista_clientes.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\RdlCompile.cache
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\RdlCompile.compiled
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_fact_vent.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_conexiones.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_login_servers.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_nuevo_cliente.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_companias.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_reporte_ventas.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_reporte_inventario.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\SysTel-Network\SysTel-Network\obj\Debug\SysTel_Network.View.Frm_acercade.resources
+E:\Courses\C#\SysTel-Network\SysTel-Network\bin\Debug\SysTel-Network.exe.config
+E:\Courses\C#\SysTel-Network\SysTel-Network\obj\Debug\SysTel-Network.exe
+E:\Courses\C#\SysTel-Network\SysTel-Network\obj\Debug\SysTel-Network.pdb
